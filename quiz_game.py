@@ -1,3 +1,6 @@
+from tkinter import Y
+
+
 print("Simple Text Quiz Game")  # game_name
 
 print("Welcome to the Quiz Game")  # welcome message
