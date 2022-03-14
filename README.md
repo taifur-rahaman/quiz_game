@@ -1,4 +1,4 @@
-# Simple Text Quiz Game
+# Text Quiz Game
 
 #### Steps
 
